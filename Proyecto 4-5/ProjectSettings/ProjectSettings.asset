@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 81f5e31de00a18f41ba2df47e3865c1a
+  productGUID: 064dfa832d79a5748a45cbd5c1e120c9
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: projecto
+  productName: Proyecto 4-5
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -604,14 +604,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: projecto
+  metroPackageName: Proyecto 4-5
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: projecto
+  metroApplicationDescription: Proyecto 4-5
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -682,10 +682,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: 81a43d8d-3eab-4499-b6d8-20c7907c9b73
+  cloudProjectId: edb53ca6-096f-48ce-b3fc-ac6ce068b40f
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: projecto
+  projectName: Proyecto 4-5
   organizationId: holalalalalak3jj3j3jerhhrb4g4yhrhfrb4rg4uyh78rrg
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
